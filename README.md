@@ -1,2 +1,2 @@
 # deepLearning
-Different projects I developed with my team for the deep learning subject at Universidad Politécnica de Madrid
+Different projects I developed with my team for the deep learning subject at Universidad Politécnica de Madrid. We developed an image recognition program that we would keep updating with what was taught in the lectures. We started with a Feed Forward Neural Network and then we would experiment with Convolutional Neural Networks, as well as pretraining our model with a preestablished neural network such as ResNet50, among others.
